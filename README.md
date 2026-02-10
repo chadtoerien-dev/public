@@ -29,7 +29,12 @@ Screenshots live in `assets/screenshots/`. These are sanitized UI previews:
 - `assets/screenshots/interests.png`
 - `assets/screenshots/discover-home.png`
 - `assets/screenshots/swipe-card.png`
+- `assets/screenshots/swipe-approve.png`
+- `assets/screenshots/swipe-puppies.png`
 - `assets/screenshots/matches.png`
+- `assets/screenshots/pet-detail-price.png`
+- `assets/screenshots/chat-booking.png`
+- `assets/screenshots/chat-payment.png`
 
 ## Roadmap Highlights
 See `docs/roadmap.md` for planned improvements and milestone themes.
