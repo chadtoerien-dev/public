@@ -13,7 +13,23 @@ Petbae provides a friendly, modern way to browse pets, understand compatibility,
 This product uses a Flutter mobile app, a lightweight API layer, and a managed database service. The public system design is documented in `docs/architecture.md`.
 
 ## Screenshots
-Screenshots live in `assets/screenshots/`. 
+Screenshots live in `assets/screenshots/`. These are sanitized UI previews:
+- `assets/screenshots/login.png`
+- `assets/screenshots/welcome.png`
+- `assets/screenshots/onboarding-q1-garden.png`
+- `assets/screenshots/onboarding-q2-activity.png`
+- `assets/screenshots/onboarding-q3-experience.png`
+- `assets/screenshots/onboarding-q4-household.png`
+- `assets/screenshots/onboarding-q5-size.png`
+- `assets/screenshots/onboarding-q6-traits.png`
+- `assets/screenshots/onboarding-q7-breed.png`
+- `assets/screenshots/onboarding-q8-time.png`
+- `assets/screenshots/onboarding-q9-budget.png`
+- `assets/screenshots/identity-verification.png`
+- `assets/screenshots/interests.png`
+- `assets/screenshots/discover-home.png`
+- `assets/screenshots/swipe-card.png`
+- `assets/screenshots/matches.png`
 
 ## Roadmap Highlights
 See `docs/roadmap.md` for planned improvements and milestone themes.
