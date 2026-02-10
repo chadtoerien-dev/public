@@ -1,4 +1,4 @@
-Petbae is building the world's first AI Native Pet Ownership Operation System to manage the entire life cycle of owning a pet. Starting with adoption, Petbae has built a a pet matchmaking experience that helps people discover compatible pets and connect with trusted organizations which shorterns the adoption process. This is the first part of a larger vision to build an AI native Pet ownership operating system which covers all aspects of ownership.
+Petbae is building the world's first AI Native Pet Ownership Operation System to manage the entire life cycle of owning a pet. Starting with adoption, Petbae has built a a pet matchmaking experience that helps people discover compatible pets and connect with trusted organizations which shorterns the adoption process. This is the first part of a larger vision.
 
 ## What This Product Does
 Petbae provides a friendly, modern way to browse pets, understand compatibility, and start a conversation with a rescue or breeder without exposing sensitive systems or data.
