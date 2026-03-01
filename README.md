@@ -1,5 +1,5 @@
-New Petbae Website: petbae.ai
-New Petbae Investor Website: petbae.ai/invest
+New Petbae Website: https://petbae.ai/
+New Petbae Investor Website: https://petbae.ai/invest
 
 Petbae is building the world's first AI Native Pet Ownership Operation System to manage the entire life cycle of owning a pet. Starting with adoption, Petbae has built a a pet matchmaking experience that helps people discover compatible pets and connect with trusted organizations which shorterns the adoption process. This is the first part of a larger vision.
 
